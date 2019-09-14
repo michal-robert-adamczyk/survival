@@ -9,7 +9,7 @@
 To publish your page using github pages use `npm run deploy`
 
 
-# Survival side/pwd app.
+# Survival site/pwd app.
 
 It will be my edc app, to survive in every situation. Source of knowledge, way to study and fun with survival.
 
